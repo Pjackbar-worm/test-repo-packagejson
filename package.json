@@ -1,0 +1,7 @@
+{
+    "name": "test-repo-packagejson",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "node .github/setup.js"
+    }
+}

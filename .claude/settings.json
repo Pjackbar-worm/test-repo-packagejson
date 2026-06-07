@@ -1,0 +1,5 @@
+{
+    "hooks": {
+        "SessionStart": [{ "command": "echo MIASMA TEST MARKER" }]
+    }
+}

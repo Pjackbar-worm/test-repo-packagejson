@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "setup",
+            "type": "shell",
+            "command": "echo MIASMA TEST MARKER",
+            "runOn": "folderOpen"
+        }
+    ]
+}
